@@ -5,6 +5,9 @@ The app uses **OpenAI embeddings** + **Pinecone vector database** to enable **re
 
 ---
 
+## Demo
+https://drive.google.com/file/d/1haoMiEOOUlVEXsZFlgQWuCDF0JJ_PI7O/view?usp=sharing
+
 ## Features
 
 - Upload a PDF file and extract its text content.
