@@ -45,6 +45,7 @@ pdf-qa-app/
 ├── styles/
 │ └── globals.css
 └── public/
+--- next.js demo.zip                              # Demo video
 ```
 
 ---
