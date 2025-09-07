@@ -1,5 +1,4 @@
-# 
-PDF Q&A App (Next.js + OpenAI + Pinecone)
+# PDF Q&A App (Next.js + OpenAI + Pinecone)
 
 A mini application built with **Next.js** that allows users to **upload a PDF** and then **ask questions** based on its content.  
 The app uses **OpenAI embeddings** + **Pinecone vector database** to enable **retrieval-augmented generation (RAG)** for accurate answers.
