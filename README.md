@@ -126,4 +126,3 @@ Example:
 # THANK YOU!
 
 ---
->>>>>>> 65d30639b27303211b30c7ba9ebc8b91da00de49
